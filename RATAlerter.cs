@@ -104,7 +104,7 @@ namespace AntiRAT
         }
         private string[] CleanBadPortsArray(string[] ports)
         {
-            string[] safePorts = { "0", "443", "80", "137", "50130" };
+            string[] safePorts = { "0", "443", "80" };
 
             foreach (var safePort in safePorts)
             {
