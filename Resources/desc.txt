@@ -1,0 +1,2 @@
+﻿RAT Alerter is a utility meant to help people detect whether or not they are being a victim of an undergoing RAT attack.
+
